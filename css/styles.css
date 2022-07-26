@@ -1,0 +1,179 @@
+body {
+    background-color: white;
+    margin: 0px;
+    text-align: center;
+}
+
+.dev {
+    text-decoration: underline;
+}
+
+.top-txt {
+    font-size: 2.5rem;
+    color: #66BFBF;
+    margin-top: 0;
+    font-family: "Noto Serif", serif;
+    font-weight: normal;
+}
+
+h1 {
+    font-family: "Festive", cursive;
+    font-size: 7rem;
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+    margin: 50px auto;
+    font-family: "Noto Serif", serif;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: "Josefin Sans", serif;
+    color: #11999E;
+    font-weight: normal;
+}
+
+p {
+    font-family: "Josefin Sans", Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    line-height: 2;
+}
+
+.top-container {
+    background-color: hsl(200, 100%, 90%);
+    padding-top: 130px;
+}
+
+.middle-container {
+    padding: 50px;
+}
+
+.bottom-container {
+    padding-top:50px;
+    background-color: #66BFBF;
+    margin-bottom: 0;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 330px;
+}
+
+.top-cloud {
+    position: relative;
+    left: 400px;
+}
+
+.code-img {
+    float: left;
+    width: 25%;
+    margin-right: 60px;
+}
+
+.gamer-img {
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+}
+
+.attribution {
+    font-size: smaller;
+    font-weight: 200;
+    display: block;
+    margin:0;
+    color: #11999E;
+    font-family: "Josefin Sans", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.attribution-1 {
+    font-size: smaller;
+    font-weight: 200;
+    display: block;
+    margin-top:30px; 
+    color: #11999E;
+    font-family: "Josefin Sans", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pfp {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    padding: 50px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Josefin Sans", Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .contact-desc {
+    margin-bottom: 30px;
+    width: 50%;
+  }
+
+  .hello-txt {
+    padding: 30px;
+    width: 30%;
+    text-align: center;
+    line-height: 2;
+    margin: auto auto;
+  }
+
+  hr {
+    color: #EAF6F6;
+    border-style: none;
+    border-top: dotted;
+    border-width: 10px;
+    width: 4%;
+}
+
+.my-skills {
+font-size: 2.5rem;
+    color: #66BFBF;
+    font-family: "Noto Serif", serif;
+    font-weight: normal;
+}
+
+.footer {
+    font-weight: 200;
+    color: #EAF6F6;
+    padding: 30px;
+}
+
+.footer-link {
+    color: #11999E;
+    font-family: "Josefin Sans", Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px;
+}
